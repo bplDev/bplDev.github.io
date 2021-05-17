@@ -3378,7 +3378,7 @@ input, select, textarea {
 		}
 		.v5 {
 			color: #FFFFFF;
-			font-family: Glacial Indifference;
+			font-family: 'Glacial Indifference';
 		}
 		.center{
 			text-align: center;
@@ -3459,7 +3459,7 @@ input, select, textarea {
 		/*Created this to control h1 under the first nav page */
 		.wrapper.fade-up > .inner > h1 {
 			color: #000000;
-			font-family: Glacial Indifference;
+			font-family: 'Glacial Indifference';
 		}
 
 		/*Created this to control p under the first nav page */
