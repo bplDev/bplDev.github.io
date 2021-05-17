@@ -200,7 +200,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #000000;
-		font-family: "Raleway", Helvetica, sans-serif, Pasajero;
+		font-family: "Raleway", 'Helvetica, sans-serif', 'Pasajero';
 		font-weight: 600;
 		letter-spacing: 0.175em;
 		line-height: 1.75;
@@ -214,7 +214,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-family: "Source Sans Pro", Helvetica, sans-serif, Pasajero;
+		font-family: "Source Sans Pro", 'Helvetica, sans-serif', 'Pasajero';
 		font-size: 5rem;
 		font-weight: 700;
 		letter-spacing: -0.05em;
@@ -317,7 +317,7 @@ input, select, textarea {
 	code {
 		background: rgba(144, 144, 144, 0.1);
 		border-radius: 0.325rem;
-		font-family: "Courier New", monospace, Pasajero;
+		font-family: "Courier New", 'monospace', 'Pasajero';
 		font-size: 0.9rem;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.65rem;
@@ -325,7 +325,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace, Pasajero;
+		font-family: "Courier New", 'monospace', 'Pasajero';
 		font-size: 0.9rem;
 		margin: 0 0 2rem 0;
 		width: 100%;
