@@ -24,7 +24,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	font-family: "Nunito";
+	/* font-family: "Nunito"; */
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -198,7 +198,7 @@ input, select, textarea {
 			position: relative;
 			padding-bottom: 0.35em;
 			color: #000000;
-			font-family: 'Pasajero';
+			font-family: 'Pasajero'; /*Added this*/
 		}
 
 			h1.major:after {
@@ -1855,7 +1855,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		font-family: 'Pasajero';
+		font-family: 'Pasajero'; /*Added by me*/
 	}
 
 	/*Changes*/
@@ -3140,7 +3140,7 @@ input, select, textarea {
 
 		.spotlights .c1 {
 			color: #000000;
-			font-family: 'Nunito ExtraLight';
+			font-family: 'Nunito ExtraLight'!important;
 			font-size: 12pt;
 		}
 
