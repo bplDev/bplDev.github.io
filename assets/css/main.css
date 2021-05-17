@@ -3368,7 +3368,7 @@ input, select, textarea {
 		}
 		.v2 {
 			color: #000000;
-			font-family: 'Pasajero';
+			font-family: 'Pasajero'!important;
 		}
 		.v3 {
 			color: #B5121B;
