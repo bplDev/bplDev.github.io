@@ -1,6 +1,5 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Nunito");
-@import url("https://www.fontzip.com/storage/2017/02/18/pasajero/webfonts/Pasajero.css");
 
 /*
 	Hyperspace by HTML5 UP
@@ -119,7 +118,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: 'Nunito', 'Glacial Indifference', 'Pasajero' ;
+		font-family: 'Nunito', 'Glacial Indifference';
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -198,7 +197,7 @@ input, select, textarea {
 			position: relative;
 			padding-bottom: 0.35em;
 			color: #000000;
-			font-family: 'Pasajero'; /*Added this*/
+			font-family: 'Glacial Indifference'; /*Added this*/
 		}
 
 			h1.major:after {
@@ -1855,7 +1854,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		font-family: 'Pasajero'; /*Added by me*/
+		font-family: 'Glacial Indifference'; /*Added by me*/
 	}
 
 	/*Changes*/
@@ -3135,7 +3134,7 @@ input, select, textarea {
 		/*Created to change the color of the text color */
 		.spotlights .v1 {
 			color: #000000;
-			font-family: 'Pasajero';
+			font-family: 'Glacial Indifference';
 		}
 
 		.c1 {
@@ -3309,7 +3308,7 @@ input, select, textarea {
 
 		.valuesh3 {
 			color: #000000;
-			font-family: 'Pasajero';
+			font-family: 'Glacial Indifference';
 		}
 
 		/*By me END*/
@@ -3368,11 +3367,11 @@ input, select, textarea {
 		}
 		.v2 {
 			color: #000000;
-			font-family: 'Pasajero'!important;
+			font-family: 'Glacial Indifference'!important;
 		}
 		.v3 {
 			color: #B5121B;
-			font-family: 'Pasajero';
+			font-family: 'Glacial Indifference';
 			font-size: 20pt;
 			margin-top: 10%;
 		}
@@ -3528,7 +3527,7 @@ input, select, textarea {
 		background-color: #B5121B; /*Used to be=5e42a6*/
 		cursor: default;
 		padding: 1.75em 2em;
-		font-family: 'Pasajero';
+		font-family: 'Glacial Indifference';
 	}
 
 		#header > .title {
@@ -3681,7 +3680,7 @@ input, select, textarea {
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
 		background: #B5121B; /*Background color for sidebar.Initial=312450 --HAVE TO COME BACK TO IT*/
-		font-family: 'Pasajero';
+		font-family: 'Glacial Indifference';
 		cursor: default;
 		height: 100vh;
 		left: 0;
